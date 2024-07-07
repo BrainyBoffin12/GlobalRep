@@ -19,7 +19,3 @@ Hi there! I'm Houssam Khaldi 👋
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Profile Image](https://avatars.githubusercontent.com/u/your-username?v=4)
-
-
